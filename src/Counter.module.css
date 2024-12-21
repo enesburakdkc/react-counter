@@ -1,0 +1,19 @@
+.mainContainer {
+    display: flex;
+    margin: auto;
+    flex-direction: column;
+    text-align: center;
+    gap: 4.2rem;
+}
+
+.counter {
+    font-size: 3rem;
+    font-weight: 400;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+
