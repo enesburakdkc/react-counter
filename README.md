@@ -2,7 +2,7 @@
 
 <p>A counter project coded with React.</p>
 
-<p>This site is live at: <a href="https://enesburakdikici.com/react-counter/">https://enesburakdikici.com/react-counter/</a></p>
+<p>This project is live at: <a href="https://enesburakdikici.com/react-counter/">https://enesburakdikici.com/react-counter/</a></p>
 
 <h2>Screenshots</h2>
 
